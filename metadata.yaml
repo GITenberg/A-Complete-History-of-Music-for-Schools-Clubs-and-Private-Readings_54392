@@ -1,5 +1,8 @@
 _repo: A-Complete-History-of-Music-for-Schools-Clubs-and-Private-Readings_54392
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54392-h/images/cover.jpg
 creator:
   author:
     agent_name: Baltzell, W. J. (Winton James)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '6650'
     url: http://www.gutenberg.org/2009/agents/6650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54392#A-Complete-History-of-Music-for-Schools-Clubs-and-Private-Readings
 gutenberg_issued: '2017-03-20'
 gutenberg_type: Text
 identifiers:
